@@ -1,0 +1,7 @@
+id,source_type,title,url,collection_date,relevance,usage,notes
+WT-SRC-001,Bilibili,英伟达（Nvidia）IC设计校招笔试题讲解,https://www.bilibili.com/video/BV19t4y1S7SE/,2026-03-09,high,public-traceable,"公开视频标题明确指向英伟达 IC 设计校招笔试题讲解"
+WT-SRC-002,Bilibili,IC名企芯片设计岗位笔面试真题解析（含英伟达Nvidia-数字芯片选集）,https://www.bilibili.com/video/BV1jk4y1H7XR/,2026-03-09,high,public-traceable,"公开视频选集包含英伟达 Nvidia-数字芯片"
+WT-SRC-003,Bilibili,FPGA开发、数字IC设计岗位笔试刷题（一）——序列检测器,https://www.bilibili.com/video/BV1Hv4y127ad,2026-03-09,medium,nvidia-style,"非英伟达专属，但符合数字 IC/校招笔试常见题型"
+WT-SRC-004,Bilibili,2024模拟IC秋招及笔试题分享,https://www.bilibili.com/video/BV1Lu4y1p7N9/,2026-03-09,medium,nvidia-style,"可作为模拟 IC 岗位笔试风格补充来源"
+WT-SRC-005,Nowcoder,爱信等海思ASIC芯片设计 专业+主管面（含 PD 方向准备线索）,https://www.nowcoder.com/feed/main/detail/8f35c9b37a5d4e4d8d96d4197d8ae2fd,2026-03-09,medium,nvidia-style,"不是英伟达笔试原题，但提供 ASIC/PD 方向准备线索"
+WT-SRC-006,Bilibili,数字后端设计笔试面试题（来源于 IC 名企题解选集）,https://www.bilibili.com/video/BV1jk4y1H7XR/,2026-03-09,medium,nvidia-style,"同一公开视频系列中包含数字后端设计笔试面试题"
