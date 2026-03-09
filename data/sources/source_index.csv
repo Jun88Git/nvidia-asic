@@ -1,0 +1,6 @@
+id,source_type,title,url,collection_date,relevance,tags,notes
+SRC-001,Glassdoor,NVIDIA Physical Design Engineer interview page,"https://www.glassdoor.com/Interview/NVIDIA-Physical-Design-Engineer-Interview-Questions-EI_IE7633.0,6_KO7,31.htm",2026-03-09,high,"nvidia;physical-design;interview","公开面试页面，含流程与问题线索"
+SRC-002,Glassdoor,NVIDIA ASIC Physical Design Engineer interview page,"https://www.glassdoor.com/Interview/NVIDIA-ASIC-Physical-Design-Engineer-Interview-Questions-EI_IE7633.0,6_KO7,36.htm",2026-03-09,high,"nvidia;asic;physical-design","岗位强相关条目"
+SRC-003,LinkedIn,Public post discussing NVIDIA ASIC Physical Design interview questions,"https://www.linkedin.com/posts/vlsijobseekers_nvidia-asic-physical-design-interview-question-activity-7250789557434648577-UTa9",2026-03-09,high,"linkedin;question-list;asic-pd","公开帖子，适合作为题目线索"
+SRC-004,Reddit,Discussion about physical design role at NVIDIA,"https://www.reddit.com/r/vlsi/comments/1iwf0ud/physical_design_at_nvidia/",2026-03-09,medium,"reddit;vlsi;nvidia;physical-design","公开讨论，含流程/团队/体验信息"
+SRC-005,Reddit,ASIC hardware design engineer interview preparation discussion,"https://www.reddit.com/r/ECE/comments/1m7g5q6/what_to_study_for_asic_hardware_design_engineer/",2026-03-09,medium,"reddit;asic;design;prep","非 NVIDIA 专属，但与岗位准备高度相关"
